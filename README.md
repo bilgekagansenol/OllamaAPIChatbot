@@ -1,4 +1,4 @@
-# Ollama Chatbot & Model Switching API
+ # Ollama Chatbot & Model Switching API
 
 This project is a chatbot built using **Flask** for the backend and **React** for the frontend. The chatbot allows switching between different AI models dynamically via API requests. The project runs inside a **virtual environment (venv)** to ensure dependency isolation.
 
@@ -12,7 +12,7 @@ This project is a chatbot built using **Flask** for the backend and **React** fo
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/OllamaChatBot.git
+git clone https://github.com/bilgekagansenol/OllamaAPIChatbot
 cd OllamaChatBot
 ```
 
@@ -55,4 +55,4 @@ curl -X POST "http://127.0.0.1:5000/switch-model" -H "Content-Type: application/
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License.
+feel free to fork.
