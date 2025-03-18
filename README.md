@@ -2,6 +2,9 @@
 
 This project is a chatbot built using **Flask** for the backend and **React** for the frontend. The chatbot allows switching between different AI models dynamically via API requests. The project runs inside a **virtual environment (venv)** to ensure dependency isolation.
 
+![image](https://github.com/user-attachments/assets/2a53dfa9-a8ec-41a7-b5ee-86cfd920e9b8)
+
+
 ## Features
 - Switch between different AI models dynamically.
 - REST API support for chatbot interactions.
